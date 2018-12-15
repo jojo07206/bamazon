@@ -56,9 +56,6 @@ function runSearch() {
                     );
                     console.log("Your total is: " + total);
                 } else {
-                    console.log(result);
-                    console.log(current_quantity);
-                    console.log(price);
                     console.log("Insufficient quantity!");
                 }
             });
